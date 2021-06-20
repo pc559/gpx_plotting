@@ -6,7 +6,7 @@
 ## # Animation would be cute
 ## # Scale histograms
 ## # Plot std vs mean for batches?
-## # Plot std vs time for minutes...
+## # Plot std vs time for minutes
 
 ## Latitude: 1 deg = 110.574 km
 ## Longitude: 1 deg = 111.320*cos(latitude*np.pi/180.) km
